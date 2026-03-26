@@ -7,9 +7,9 @@
 ---
 
 ## 🧠 Sobre mim
-- 🔭 Atualmente trabalhando em projetos com Spring Boot
+- 🔭 Atualmente estou estudando o ecossistema Java com o framework Spring Boot e engenharia de dados com Python com panda e PySpark
 - 🌱 Estudando arquitetura e sistemas distribuídos
-- ⚡ Curto backend raiz e resolver problema de verdade
+
 
 ---
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,redis,aws,git,linux" />
+<img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,redis,aws,git,linux,docker" />
 
 </div>
 
@@ -37,7 +37,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpcarvalhoac&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcarvalhoac&layout=compact&theme=tokyonight"/>
 
 </div>
@@ -48,35 +47,17 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USER&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=jpcarvalhoac&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
-
-### 🔧 Sistema de Oficina
-- API REST com Spring Boot
-- Autenticação JWT + Redis
-- Arquitetura hexagonal
-
-👉 [Ver projeto](LINK)
-
----
-
-### 🌍 Reportaí
-- Plataforma de fiscalização urbana
-- Geolocalização + backend robusto
-
-👉 [Ver projeto](LINK)
-
----
 
 ## 📫 Contato
 
-- 💼 LinkedIn: LINK
-- 📧 Email: SEU_EMAIL
+- 💼 LinkedIn: https://www.linkedin.com/in/jpcarvalhoac/
+- 📧 Email: jp.carvalho1300@gmail.com
 
 ---
 
