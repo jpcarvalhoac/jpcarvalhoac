@@ -47,16 +47,6 @@
 
 ---
 
-## 💼 Projetos em Destaque
-
-*Abaixo alguns dos projetos que desenvolvi ou contribuí:*
-
-- **[MyTasks](#)**: Um sistema robusto de gerenciamento de tarefas.
-- **[Reportaí](#)**: Atuação no backend desta plataforma de monitoramento colaborativo para a cidade de Ponte Nova (Projeto de Extensão IFMG).
-- **[Jogo da Forca Multijogador](#)**: Jogo com interface gráfica e chat em tempo real desenvolvido em Python para a disciplina de Redes.
-
-*(Lembre-se de adicionar os links reais dos repositórios acima!)*
-
 ---
 
 ## 📊 Estatísticas do GitHub
