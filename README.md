@@ -1,16 +1,18 @@
-## Hi there 👋
+# Fala aí 👋, eu sou João
 
-<!--
-**jpcarvalhoac/jpcarvalhoac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend (Java / Spring Boot)  
+📍 Brasil  
+🚀 Focado em evoluir todos os dias  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+- Java
+- Spring Boot
+- PostgreSQL
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![stats](https://github-readme-stats.vercel.app/api?username=SEU_USER)
+
+## 📫 Contato
+- LinkedIn: seu link
+- Email: seu email
