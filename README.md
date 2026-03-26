@@ -23,7 +23,7 @@
 
 - 🎓 **Graduando em Ciência da Computação** pela Universidade Federal de Ouro Preto (UFOP).
 - 🔭 **Atualmente focado em:** Aprofundar meus conhecimentos no ecossistema **Java com Spring Boot** e em **Engenharia de Dados** (Python, Pandas e PySpark).
-- 🌱 **Estudando:** Arquitetura de Software, Sistemas Distribuídos, Algoritmos e Estruturas de Dados.
+- 🌱 **Estudando:** Arquitetura de Software,Engenharia de Dados, Sistemas Distribuídos, Algoritmos e Estruturas de Dados.
 - 💡 **Interesses adicionais:** Inteligência Artificial e a criação de conteúdo sobre tecnologia e programação (TikTok, Instagram e YouTube).
 
 ---
@@ -32,7 +32,7 @@
 
 ### Backend & Dados
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" alt="Backend and Data" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs," alt="Backend and Data" />
 </div>
 
 ### Frontend
@@ -43,6 +43,11 @@
 ### Infraestrutura, Banco de Dados & Ferramentas
 <div align="left">
   <img src="https://skillicons.dev/icons?i=postgres,redis,aws,docker,linux,git,github" alt="Infra and Tools" />
+</div>
+
+### Outras linguagens
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" alt="Infra and Tools" />
 </div>
 
 ---
